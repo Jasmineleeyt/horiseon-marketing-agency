@@ -13,6 +13,11 @@ N/A
 
 Reading through this webpage will provide you with the information on the services offered by Horiseon Marketing. You can access the topics in the page by using the navigation bar located at the top right of the page.
 
+Link to the deployed application: https://jasmineleeyt.github.io/horiseon-marketing-agency/
+
+Screenshot of the website:
+![screenshot of a deployed app](assets/images/screenshot-of-deployed-application.png)
+
 ## Credits
 
 N/A
